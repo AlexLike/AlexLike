@@ -12,6 +12,6 @@ I'm a Master’s Student in Computer Science at [ETH Zürich](https://inf.ethz.c
 
 Browse my 🧑‍💻 [GitHub](https://github.com/AlexLike) and 📹 [YouTube](https://www.youtube.com/@alexlike) channel for more. Interested in collaborating? Let's connect! Send me a message on [LinkedIn](https://www.linkedin.com/in/alzank/) or via e-mail 🙃.
 
-<img src="project-reel.png" alt="Manga-style header figure. The historical ETH central building. Alex typing on an old-school eMac. A cardboard prototyping session for a space-app. A person in a wheelchair using a VR headset." width="100%">
-
 xoxo, Alex 🦄
+
+<img src="project-reel.png" alt="Manga-style header figure. The historical ETH central building. Alex typing on an old-school eMac. A cardboard prototyping session for a space-app. A person in a wheelchair using a VR headset." width="100%">
