@@ -1,4 +1,4 @@
-<img src="header.png" alt="Header Figure" width="100%">
+<img src="header.png" alt="Manga-style header figure. The historical ETH central building. Alex typing on an old-school eMac. A cardboard prototyping session for a space-app. A person in a wheelchair using a VR headset." width="100%">
 
 ### Caffeinated Greetings 👋
 
@@ -11,5 +11,7 @@ I'm a Master’s Student in Computer Science at [ETH Zürich](https://inf.ethz.c
 - ✍️ Applying user-centered design to help cartoon artists in the age of digital. [Flex Studio](https://github.com/AlexLike/FlexStudio):<br/><a href="https://www.youtube.com/watch?v=SJYu8f-hb8Y"><img src="flex-studio-teaser.png" alt="Teaser Figure" width="150px"></a><br/>
 
 Browse my 🧑‍💻 [GitHub](https://github.com/AlexLike) and 📹 [YouTube](https://www.youtube.com/@alexlike) channel for more. Interested in collaborating? Let's connect! Send me a message on [LinkedIn](https://www.linkedin.com/in/alzank/) or via e-mail 🙃.
+
+<img src="project-reel.png" alt="Manga-style header figure. The historical ETH central building. Alex typing on an old-school eMac. A cardboard prototyping session for a space-app. A person in a wheelchair using a VR headset." width="100%">
 
 xoxo, Alex 🦄
